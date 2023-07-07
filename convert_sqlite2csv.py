@@ -1,5 +1,5 @@
-import csv
 import sqlite3
+import csv
 
 print('start')
 conn = sqlite3.connect('/Users/a/Downloads/9.db')
